@@ -1,4 +1,4 @@
-# hello-world
+# pay-admin
 
 ## Project setup
 ```

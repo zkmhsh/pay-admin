@@ -1,6 +1,6 @@
 // 网站底部组件
 <template>
-    <div class='footer'><span class='footer-body'> {{copyright}} <BR/> {{author}} | {{icpCert}} </span></div>
+    <div class='footer'><span class='footer-body'> {{copyright}} <BR/>  {{icpCert}} | {{gab}} </span></div>
 </template>
 <script>
     export default {
@@ -9,12 +9,13 @@
             copyright: String,
             author: String,
             icpCert: String,
+            gab: String
         }
     }
 </script>
 <style>
     .footer {
-        line-height: 20px;
+        line-height: 15px;
         background-color: #222d32;
         padding: 0;
         margin: 0;

@@ -2,6 +2,7 @@
 <template>
     <div class="header">
         <!-- 公司logo -->
+        
         <img src="@/assets/logo.png" alt="logo" class="logo">
         <!-- 登录着信息 -->
         <el-dropdown >
@@ -23,9 +24,9 @@ export default {
 </script>
 <style>
     .logo {
-        width: 55px;
+        width: auto;
         height: 55px;
-        margin-left: 20px!important;
+        margin-left: 0px!important;
         vertical-align: middle;
     }
     .el-dropdown-link {

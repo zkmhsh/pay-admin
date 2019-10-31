@@ -17,7 +17,7 @@
         </el-main>
         <!-- 引用Footer组件，可传参数：组件内props定义接受的参数 -->
         <el-footer>
-          <Footer copyright="©中科粮 保留所有权利。" author="" icpCert=""></Footer>
+          <Footer copyright="©北京中科羲和智慧信息技术有限公司 保留所有权利。" author="中科羲和" icpCert="京ICP备190100009999" gab="京公网安备19100101011"></Footer>
         </el-footer>
       </el-container>
     </el-container>
